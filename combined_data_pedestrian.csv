@@ -1,0 +1,10 @@
+Travel Lane,Count,Percentage,Area,Driver / Cyclist behavior factors
+Right_Turn_Lane,315,19.230769230769234,,
+Left_Turn_Lane,142,8.669108669108669,,
+Through_Lane,39,2.380952380952381,,
+,526,32.11233211233211,Traffic_Light,
+,299,18.253968253968253,Stop_Sign,
+,109,6.654456654456655,Mid_Block,
+,418,25.518925518925517,,Failure_to_Yield
+,202,12.332112332112333,,"Failure_to_Yield,Running_Light_Sign"
+,110,6.715506715506716,,"Failure_to_Yield,Improper_Right_Turn"

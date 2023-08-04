@@ -1,0 +1,10 @@
+Travel Lane,Count,Percentage,Area,Driver / Cyclist behavior factors
+Bike_Lane_Unprotected,82,33.064516129032256,,
+Right_Turn_Lane,24,9.67741935483871,,
+Through_Lane,14,5.64516129032258,,
+,64,25.806451612903224,Traffic_Light,
+,40,16.129032258064516,Mid_Block,
+,26,10.483870967741936,Stop_Sign,
+,30,12.096774193548388,,Failure_to_Yield
+,26,10.483870967741936,,Passing_Closely
+,11,4.435483870967742,,Running_Light_Sign
